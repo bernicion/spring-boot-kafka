@@ -1,2 +1,2 @@
 # spring-boot-kafka
-Sample repository to intergrate Kafka with Spring Boot
+Sample repository to integrate Kafka with Spring Boot https://reflectoring.io/spring-boot-kafka/
