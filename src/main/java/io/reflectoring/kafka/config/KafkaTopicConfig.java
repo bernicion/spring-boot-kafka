@@ -1,4 +1,4 @@
-package io.reflectoring.kafka;
+package io.reflectoring.kafka.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;

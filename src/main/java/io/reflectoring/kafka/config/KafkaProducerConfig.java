@@ -1,5 +1,7 @@
-package io.reflectoring.kafka;
+package io.reflectoring.kafka.config;
 
+import io.reflectoring.kafka.producer.KafkaSenderExample;
+import io.reflectoring.kafka.model.User;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.clients.producer.RecordMetadata;
